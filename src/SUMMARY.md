@@ -1,6 +1,10 @@
 # Summary
 
-# L'Ère du Verseau, Fin de l'Illusion Humaniste
+# L'Ère du Verseau, Fin de l'Illusion Humaniste (1970) — Jean Sendy
+
+[Verso](./README.md)
+
+---
 - [La Science et le Mythe](./la-science-et-le-mythe/README.md)
     - [La Science Fictive](./la-science-et-le-mythe/la-science-fictive.md)
     - [Le Mythe](./la-science-et-le-mythe/le-mythe.md)
