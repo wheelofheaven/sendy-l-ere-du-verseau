@@ -1,0 +1,10 @@
+[book]
+title = "L'Ère du Verseau, Fin de l'Illusion Humaniste"
+authors = ["Jean Sendy"]
+language = "fr"
+multilingual = false
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/wheelofheaven/sendy-l-ere-du-verseau"
+git-repository-icon = "fa-github"
