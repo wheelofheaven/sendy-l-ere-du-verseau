@@ -1,0 +1,1 @@
+# Le Postulat de Médiocrité
