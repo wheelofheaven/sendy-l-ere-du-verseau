@@ -1,1 +1,0 @@
-# Un Système Planétaire Médiocre

@@ -1,1 +1,0 @@
-# Descartes et Kepler
