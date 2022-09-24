@@ -1,1 +1,11 @@
 # Héritiers ou Inventeurs
+
+Les astronomes babyloniens, et les hommes dont ils étaient les héritiers et les continuateurs, rien n’interdit de les imaginer capables d’avoir mis de l’ordre dans les connaissances dont ils étaient les transmetteurs. Mais les hommes du néolithique étaient-ils capables d’avoir découvert toutes leurs connaissances d’abord, et inventé ensuite des dieux à qui attribuer la paternité de leur savoir ? Cela reste entièrement à démontrer... et à mesure qu’on se rend compte de l’étendue de ce savoir, son accumulation par des néolithiques apparaît de moins en moins plausible.
+
+On ne peut plus contester, depuis que Santillana a publié sa somme de documents-massue, que ces connaissances « babyloniennes » n’ont pas été acquises par les Babyloniens, qu’elles étaient acquises dès les temps protohistoriques. On ne peut même plus prétendre que l’astronomie de la Tradition reposait sur des idées absurdes, comme celle de « la Terre plate » par exemple. Écoutons Santillana : <span id="e9782221228517_c05-st1.xhtml#page-84"></span>
+
+« La *terre plate* des Anciens n’avait aucun rapport avec les élucubrations des fanatiques qui ont empoisonné l’existence de Christophe Colomb. Par *terre plate,* les Anciens désignaient la bande zodiacale dans laquelle se meuvent les « véritables habitants » de notre monde, c’est-à-dire les planètes. \[...\] Le mot « terre » désignait, chez les Anciens, le plan idéal de l’écliptique \[...\] passant par les quatre points de l’année, les équinoxes et les solstices. \[...\] La terre était *définie* comme étant à quatre « angles », il n’était pas question de la *croire* carrée. »
+
+Santillana accumule les preuves de ce qu’il affirme : les grands mythes issus de la préhistoire n’avaient pas d’autre but que de faire transmettre (par les générations auxquelles on ne demandait pas de chercher à comprendre, mais d’apprendre et de transmettre) un ensemble prodigieux et cohérent de science astronomique. « L’intelligence a perdu son tranchant, nous comprenons à peine les Anciens » écrivait au vie siècle Grégoire de Tours, cité par Santillana.
+
+<span id="e9782221228517_c05-st1.xhtml#title29"></span>

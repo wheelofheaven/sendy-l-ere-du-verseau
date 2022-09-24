@@ -30,10 +30,10 @@
     - [Hertzsprung-Russell](./notre-place-dans-l-univers/hertzsprung-russell.md)
     - [Vie et Mort des Étoiles](./notre-place-dans-l-univers/vie-et-mort-des-etoiles.md)
 - [Médiévaux et Humanistes](./medievaux-et-humanistes/README.md)
-    - [Astronomie Ésotérique](./medievisme-et-humanisme/astronomie-esoterique.md)
+    - [Astronomie Ésotérique](./medievaux-et-humanistes/astronomie-esoterique.md)
     - [Héritiers ou Inventeurs](./medievaux-et-humanistes/heritiers-ou-inventeurs.md)
     - [Retour au Médiévisme](./medievaux-et-humanistes/retour-au-medievisme.md)
-    - [Aristaque, Zohar et Duns Scot](./medievaux-et-humanistes/aristaque-zohar-et-duns-scot.md)
+    - [Aristarque, Zohar et Duns Scot](./medievaux-et-humanistes/aristarque-zohar-et-duns-scot.md)
     - [Le XVe Siècle Humaniste](./medievaux-et-humanistes/le-xve-siecle-humaniste.md)
 [Bibliographie](./bibliographie.md)
 ---
