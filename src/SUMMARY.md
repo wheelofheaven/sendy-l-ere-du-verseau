@@ -51,7 +51,7 @@
     - [Énormément de Temps](./du-soc-primitif-a-l-astronautique/enormement-de-temps.md)
     - [La Trinité Initiale](./du-soc-primitif-a-l-astronautique/la-trinite-initiale.md)
     - [Un Périble Parsemé d'Escales](./du-soc-primitif-a-l-astronautique/un-perible-parseme-d-escales.md)
-    - [Le Masochisme Humaniste](./du-soc-primitif-a-l-astronautique/le-masochisme/humaniste.md)
+    - [Le Masochisme Humaniste](./du-soc-primitif-a-l-astronautique/le-masochisme-humaniste.md)
 - [De Quelques Balivernes et du Contact par Radio](./de-quelques-balivernes-et-du-contact-par-radio/README.md)
     - [La Fusée à Réacion dans le Vide](./de-quelques-balivernes-et-du-contact-par-radio/la-fusee-a-reaction-dans-le-vide.md)
     - [Aucun Explosif ne peut s'Arracher à la Terre](./de-quelques-balivernes-et-du-contact-par-radio/aucun-explosif-ne-peut-s-arracher-a-la-terre.md)
