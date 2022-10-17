@@ -1,1 +1,10 @@
 # Une Clé qui manque
+
+Il est exclu que « l’œuvre du jour un », ramener la lumière, ait duré 2 160 ans : aucune forme de vie n’aurait résisté à deux millénaires sans lumière ; il ne serait pas concevable que même une poignée d’hommes résiste à vingt siècles sans soleil, pour « surgir du sol » devant les venus-du-ciel ; une période de deux millénaires sans lumière aurait également laissé des traces qui, en aucun cas, n’auraient pu échapper à nos géologues... et nos techniques rudimentaires nous permettent déjà d’envisager un temps bien plus court pour les projets de dispersion <span id="e9782221228517_c18-st1.xhtml#page-267"></span>des nuages qui entourent Vénus d’un manteau opaque.
+
+Une solution de continuité de deux ou trois siècles, par contre, dans le cours de l’évolution d’il y a plus de vingt mille ans, cela peut très bien n’avoir laissé aucune trace évidente, si une intervention concertée s’est ensuite attachée à rétablir la situation... à rétablir scrupuleusement la situation d’avant le cataclysme. Or le texte biblique nous montre les Élohim s’attachant scrupuleusement à faire « reconnaître » par l’indigène les animaux, à mesure qu’ils les « créent », ainsi que nous l’avons vu au chapitre 17. On peut envisager quatre siècles même, ou cinq. Il est difficile d’admettre que cela ait pu durer davantage.
+
+Et c’est ici qu’une clé essentielle me manque : ce n’est pas le retour de la lumière qui a duré « un jour », c’est toute la « création » initiale. Et « création », dans une acception qui ne surprendra aucun familier de la Kabale, mais qu’il n’est pas possible de justifier dans un livre comme celui-ci, cela englobe l’entreprise entière : la décision prise sur la planète d’origine, la détermination du système planétaire fixé comme but à l’expédition, la préparation du voyage, le voyage lui-même, et enfin à l’arrivée la dispersion des nuages et le retour de la lumière. Il y a trois facteurs : la préparation, le voyage, l’œuvre de retour de la lumière. Connaître la durée de deux de ces facteurs donne la durée du troisième. C’est là une clé qui me manque.
+
+<span id="e9782221228517_c18-st1.xhtml#title91"></span>
+
