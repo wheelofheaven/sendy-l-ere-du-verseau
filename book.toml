@@ -8,3 +8,5 @@ src = "src"
 [output.html]
 git-repository-url = "https://github.com/wheelofheaven/sendy-l-ere-du-verseau"
 git-repository-icon = "fa-github"
+additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css"]
+output.html.preferred-dark-theme = "frappe"
